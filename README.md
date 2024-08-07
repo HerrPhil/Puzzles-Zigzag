@@ -8,7 +8,7 @@ Intuitively, what the lesson task is requesting is to take a string, for example
 ```
 learnbydoing
 ```
-and assert that three rows of space are to be used,
+and for the case when 3 rows of space are to be used,
 so to transform it into:
 ```
 l   n   o
